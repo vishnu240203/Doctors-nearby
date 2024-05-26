@@ -1,0 +1,708 @@
+@keyframes shadow-inset-center {
+  0% {
+    box-shadow: inset 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: inset 0 0 14px 0 rgb(0 0 0/50%);
+  }
+}
+.about-us-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(115, 140, 226, 0.68);
+  width: 1440px;
+  height: 341px;
+}
+.about-us2,
+.email-mittapallipavan2004gm,
+.mobile-91 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.about-us2 {
+  top: 52.65px;
+  left: 60px;
+  font-size: 35px;
+  width: 205px;
+  height: 62.68px;
+}
+.email-mittapallipavan2004gm {
+  top: 152px;
+  left: 84px;
+  width: 447px;
+  height: 54px;
+}
+.mobile-91 {
+  top: 205.6px;
+  left: 82px;
+  width: 266px;
+  height: 53.91px;
+}
+.about-us,
+.about-us1 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+  height: 341px;
+}
+.about-us1 {
+  top: -161px;
+}
+.about-us {
+  top: 1925px;
+}
+.search-by-specialist1 {
+  position: absolute;
+  top: 0;
+  left: 622px;
+  font-size: 23px;
+  font-weight: 600;
+}
+.search-by-specialist-child {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  width: 1440px;
+  height: 398px;
+}
+.rectangle-button,
+.search-by-specialist-child1,
+.search-by-specialist-inner,
+.search-by-specialist-item {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 97px;
+  border-radius: var(--br-9xs);
+  width: 201px;
+  height: 228px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.search-by-specialist-item {
+  left: 186px;
+  background-image: url(./public/rectangle17@3x.png);
+}
+.search-by-specialist-inner {
+  left: 492px;
+  background-image: url(./public/rectangle18@3x.png);
+}
+.rectangle-button {
+  left: 790px;
+  background-image: url(./public/rectangle19@3x.png);
+}
+.search-by-specialist-child1 {
+  left: 1087px;
+  background-image: url(./public/rectangle20@3x.png);
+}
+.dr-name-name {
+  top: 326px;
+  left: 196px;
+  width: 152px;
+}
+.dr-name-name,
+.dr-name-name1,
+.dr-name-name2,
+.dr-name-name3 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+  height: 29px;
+}
+.dr-name-name1 {
+  top: 333px;
+  left: 492px;
+  width: 154px;
+}
+.dr-name-name2 {
+  top: 339px;
+  left: 790px;
+  width: 153px;
+}
+.dr-name-name3 {
+  top: 341px;
+  left: 1087px;
+  width: 154px;
+}
+.doctor-degree-name {
+  top: 355px;
+  left: 196px;
+  width: 165px;
+  height: 25px;
+}
+.doctor-degree-name,
+.doctor-degree-name1,
+.doctor-degree-name2,
+.doctor-degree-name3 {
+  position: absolute;
+  font-size: var(--font-size-3xs);
+  font-weight: 600;
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.doctor-degree-name1 {
+  top: 362px;
+  left: 492px;
+  width: 167px;
+  height: 24px;
+}
+.doctor-degree-name2 {
+  top: 368px;
+  left: 790px;
+  width: 166px;
+  height: 25px;
+}
+.doctor-degree-name3 {
+  top: 370px;
+  left: 1087px;
+  width: 167px;
+  height: 24px;
+}
+.search-by-specialist {
+  position: absolute;
+  top: 1295px;
+  left: 0;
+  width: 1440px;
+  height: 470px;
+  font-size: var(--font-size-xs);
+}
+.find-doc-child {
+  position: absolute;
+  top: 217px;
+  left: calc(50% - 170.74px);
+  width: 212.74px;
+  height: 34.47px;
+}
+.find-the-right1 {
+  font-weight: 600;
+  display: inline-block;
+}
+.find-the-right-doctor-right-at-wrapper,
+.find-the-right1,
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 412px;
+  height: 50.38px;
+}
+.icon {
+  top: 224.69px;
+  left: 1.07px;
+  width: 18.17px;
+  height: 21.7px;
+  overflow: hidden;
+}
+.search-nearest-hospital {
+  border: 0;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  font-size: 13px;
+  background-color: transparent;
+  position: absolute;
+  top: 223px;
+  left: 48px;
+  letter-spacing: 0.02em;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 169px;
+  height: 22px;
+  opacity: 0.65;
+}
+.we-are-here {
+  margin-bottom: 0;
+}
+.we-are-here-to-hear-and-heal-y {
+  margin: 0;
+  padding-left: 20px;
+}
+.we-are-here-container {
+  position: absolute;
+  top: 273px;
+  left: 1px;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  font-family: var(--font-inherit);
+  color: rgba(0, 0, 0, 0.41);
+  display: inline-block;
+  width: 401px;
+  height: 104px;
+}
+.find-doc {
+  position: absolute;
+  top: 43px;
+  left: calc(50% - 653.5px);
+  width: 412px;
+  height: 377px;
+}
+.vector-icon {
+  height: 75.88%;
+  width: 77.67%;
+  top: 7.89%;
+  right: 15.33%;
+  bottom: 16.23%;
+  left: 7%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.button,
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 27.34%;
+  width: 29.13%;
+  top: 64.77%;
+  right: 7%;
+  bottom: 7.89%;
+  left: 63.87%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #d0c4c4;
+  top: 266px;
+  left: 206px;
+  width: 18.17px;
+  height: 21.7px;
+  opacity: 0.6;
+}
+.find-the-right-child,
+.find-the-right-item {
+  position: absolute;
+  top: 10.52px;
+  left: 690.07px;
+  border-radius: var(--br-47xl);
+  width: 504.01px;
+  height: 366.15px;
+}
+.find-the-right-item {
+  top: 33.56px;
+  left: 677.81px;
+  width: 452.45px;
+  height: 384.01px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 137.81px;
+  left: 788px;
+  border-radius: 41px;
+  width: 291px;
+  height: 194px;
+  object-fit: cover;
+}
+.top-rated-primary {
+  position: absolute;
+  top: 427.81px;
+  left: 788px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 374px;
+  height: 30px;
+}
+.find-the-right {
+  position: absolute;
+  top: 716px;
+  left: 116px;
+  width: 1273px;
+  height: 505px;
+  font-size: 40px;
+  color: #132139;
+}
+.homepage-child {
+  position: absolute;
+  top: 266px;
+  left: 196px;
+  background-color: #d9d9d9;
+  width: 1439px;
+  height: 499px;
+}
+.about {
+  text-decoration: none;
+  position: absolute;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  height: 29px;
+}
+.doctors {
+  top: 305.24px;
+  height: 29px;
+}
+.doctors,
+.faq,
+.home {
+  text-decoration: none;
+  position: absolute;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.home {
+  top: 305.24px;
+  left: 843px;
+  width: 67px;
+  height: 29px;
+}
+.doctors {
+  left: 967px;
+  width: 85px;
+}
+.about {
+  top: 307.24px;
+  left: 1176px;
+  width: 68px;
+}
+.faq {
+  top: 306.24px;
+  left: 1082px;
+  width: 45px;
+  height: 30px;
+}
+.span {
+  font-size: var(--font-size-lg);
+}
+.contact {
+  text-decoration: none;
+  position: absolute;
+  top: 305.24px;
+  left: 1294px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 87px;
+  height: 29px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1042px;
+  height: 291.24px;
+}
+.group-inner {
+  position: absolute;
+  height: 42px;
+}
+.group-item {
+  top: 46px;
+  left: 584px;
+  width: 199px;
+  height: 42px;
+}
+.group-item,
+.rectangle-icon {
+  position: absolute;
+}
+.group-inner {
+  top: 44px;
+  left: 100px;
+  width: 188px;
+}
+.rectangle-icon {
+  top: 36px;
+  left: 931px;
+  width: 63px;
+  height: 57px;
+}
+.icon1,
+.vector-stroke-icon {
+  position: absolute;
+  top: 49px;
+  left: 65px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.vector-stroke-icon {
+  height: 73.39%;
+  width: 74.25%;
+  top: 9.14%;
+  right: 17.04%;
+  bottom: 17.47%;
+  left: 8.71%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-stroke-icon1 {
+  height: 24.85%;
+  width: 25.71%;
+  top: 66.01%;
+  right: 8.71%;
+  bottom: 9.14%;
+  left: 65.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.button1,
+.icon2,
+.vector-stroke-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 101.62px);
+  left: calc(50% + 425px);
+  width: 37px;
+  height: 38px;
+}
+.icon2 {
+  top: 51px;
+  left: 543px;
+  width: 31px;
+  height: 28px;
+}
+.you-may-be-looking-for {
+  position: absolute;
+  top: 121.6px;
+  left: 53.73px;
+  width: 147.23px;
+  height: 14.37px;
+}
+.group-child1 {
+  position: absolute;
+  top: calc(50% + 23.38px);
+  left: calc(50% - 462px);
+  width: 157px;
+  height: 37px;
+}
+.group-child2 {
+  top: 171px;
+  left: 281px;
+}
+.group-child2,
+.group-child3,
+.group-child4 {
+  position: absolute;
+  width: 157px;
+  height: 37px;
+}
+.group-child3 {
+  top: 169px;
+  left: 503px;
+}
+.group-child4 {
+  top: 167px;
+  left: 725px;
+}
+.group-child5,
+.vector-parent {
+  position: absolute;
+  top: 172px;
+  left: 924px;
+  width: 46px;
+  height: 25px;
+}
+.vector-parent {
+  top: 401px;
+  left: 228px;
+  width: 1042px;
+  height: 291.24px;
+}
+.more {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% + 194.2px);
+  left: calc(50% + 273px);
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.homepage-item {
+  position: absolute;
+  top: 372.34px;
+  left: 1275.02px;
+  width: 360.18px;
+  height: 393px;
+}
+.f-320523164-tx7rdd7i2xdtvvkfz2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 524px;
+  height: 370.35px;
+  object-fit: cover;
+}
+.f-320523164-tx7rdd7i2xdtvvkfz2-wrapper {
+  position: absolute;
+  top: 395.24px;
+  left: 1254px;
+  width: 524px;
+  height: 370.35px;
+}
+.dentist {
+  text-decoration: none;
+  position: absolute;
+  top: calc(50% + 199.2px);
+  left: 347px;
+  font-size: 11.25px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-200);
+}
+.cardiologist {
+  top: 583px;
+  left: 554px;
+}
+.cardiologist,
+.dermatologists,
+.family-physicians {
+  text-decoration: none;
+  position: absolute;
+  font-size: 11.25px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-200);
+}
+.dermatologists {
+  top: 580px;
+  left: 762px;
+  display: inline-block;
+  width: 114px;
+  height: 23px;
+}
+.family-physicians {
+  top: 578px;
+  left: 980px;
+}
+.homepage-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 296.24px;
+  left: 1397px;
+  border-radius: var(--br-8xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 90px;
+  height: 38px;
+}
+.homepage-child1:active,
+.homepage-inner:active {
+  animation: 1s ease 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.login {
+  position: absolute;
+  top: 303.24px;
+  left: calc(50% + 531px);
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.homepage-child1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #004f95;
+  position: absolute;
+  top: 296.24px;
+  left: 1501px;
+  border-radius: var(--br-8xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 101px;
+  height: 38px;
+}
+.sign-up {
+  position: absolute;
+  top: 304px;
+  left: 1521px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 61px;
+  height: 18.14px;
+}
+.homepage-child2 {
+  position: absolute;
+  top: 145px;
+  left: 353px;
+  border-radius: 10px;
+  width: 746px;
+  height: 94px;
+}
+.logo {
+  text-decoration: none;
+  position: absolute;
+  top: 154px;
+  left: 367px;
+  font-size: 60px;
+  font-family: var(--font-stoke);
+  color: inherit;
+  -webkit-text-stroke: 1px #000;
+  mix-blend-mode: normal;
+}
+.ellipse-icon {
+  position: absolute;
+  top: -70px;
+  left: 573px;
+  width: 333px;
+  height: 122px;
+}
+.search-by-doctors,
+.search-by-location {
+  border: 0;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-mini);
+  background-color: transparent;
+  position: absolute;
+  top: 453px;
+  left: 347px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 162px;
+  height: 30px;
+  opacity: 0.7;
+}
+.search-by-location {
+  left: 826px;
+  width: 179px;
+  height: 32px;
+}
+.homepage {
+  position: absolute;
+  top: -124px;
+  left: -196px;
+  width: 1778px;
+  height: 765.59px;
+  font-family: var(--font-roboto);
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2105px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
